@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Abu Mercy Oyiwodu
 
-I'm a backend development! With a passion for technology and innovation, I’m continuously learning, building, and enhancing my skills to create impactful solutions.
+I'm a backend developer! With a passion for technology and innovation, I’m continuously learning, building, and enhancing my skills to create impactful solutions.
 
 - 🌱 I’m a backend developer 
 - 👯 I’m looking to collaborate with developers on many projects
