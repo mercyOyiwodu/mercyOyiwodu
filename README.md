@@ -6,6 +6,6 @@ I'm a backend developer! With a passion for technology and innovation, I’m con
 - 👯 I’m looking to collaborate with developers on many projects
 - 📦 Database i work with MongoDB and MySQL
 - 💬 Ask me about code and what i do
-- 📫 How to reach me: there's a link to my social media account om my profile 
+- 📫 How to reach me: there's a link to my social media account on my profile 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i smile alot 😊
