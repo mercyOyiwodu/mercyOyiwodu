@@ -7,7 +7,7 @@ I'm a **backend developer** passionate about technology and innovation. I love b
 ---
 
 <!-- HEADER BANNER -->
-<img src="https://res.cloudinary.com/drxm89fmw/image/upload/v1748018820/eih17osdazxkyz1wowml.jpg"
+<img src="https://res.cloudinary.com/drxm89fmw/image/upload/v1748019010/vjdhdy04lco4serxrmae.jpg"
  alt="Pink Banner" style="width:100%; border-radius: 12px;"/>
 
 ---
