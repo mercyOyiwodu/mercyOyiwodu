@@ -1,3 +1,9 @@
+
+<!-- HEADER BANNER -->
+<img src="https://i.pinimg.com/control1/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg"
+ alt="Pink Banner" style="width:100%; border-radius: 12px;"/>
+
+
 ## 👋 Hi there, I'm Abu Mercy Oyiwodu!
 
 I'm a **backend developer** passionate about technology and innovation. I love building efficient, scalable systems and continuously learning new tools to improve my craft.
@@ -6,11 +12,6 @@ I'm a **backend developer** passionate about technology and innovation. I love b
 
 ---
 
-<!-- HEADER BANNER -->
-<img src="https://res.cloudinary.com/drxm89fmw/image/upload/v1748019010/vjdhdy04lco4serxrmae.jpg"
- alt="Pink Banner" style="width:100%; border-radius: 12px;"/>
-
----
 
 ### 🛠️ Tech Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
