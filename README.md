@@ -1,7 +1,4 @@
-
-<!-- HEADER BANNER -->
-<img src="https://i.pinimg.com/control1/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.jpg"
- alt="Pink Banner" style="width:100%; border-radius: 12px;"/>
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20best%20coding%20assistant%20is%20Abu%20Mercy&theme=dark&color=%232fff05&particleColor=%23ffffff&background=%230d1117)
 
 
 ## 👋 Hi there, I'm Abu Mercy Oyiwodu!
@@ -47,6 +44,8 @@ I'm a **backend developer** passionate about technology and innovation. I love b
 ![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercyOyiwodu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyOyiwodu&layout=compact&theme=radical)
 
+![mercyOyiwodu's GitHub Stats](https://readme-stats-github.pages.dev/api?username=mercyOyiwodu&theme=dark)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mercyOyiwodu&theme=dark)
 ---
 
 <picture>
@@ -58,7 +57,7 @@ I'm a **backend developer** passionate about technology and innovation. I love b
 ---
 
 <!-- HEADER BANNER -->
-<img src="https://i.pinimg.com/control1/1200x/b7/f5/ee/b7f5eead99e2a1a2f677863dfc8cd058.jpg"
- alt="Pink Banner" style="width:100%; border-radius: 12px;"/>
+<!-- <img src="https://i.pinimg.com/control1/1200x/b7/f5/ee/b7f5eead99e2a1a2f677863dfc8cd058.jpg"
+ alt="Pink Banner" style="width:100%; border-radius: 12px;"/>-->
 
 
