@@ -48,7 +48,12 @@ I'm a **backend developer** passionate about technology and innovation. I love b
 
 ---
 
-### 🌟 Featured Projects
-- 🧁 **LuxFeet API** – E-commerce backend for footwear lovers. Node.js + MongoDB.
-- 🚲 **CampusTrade** – Buy/sell app for students with payment integration.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mercyOyiwodu/mercyOyiwodu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mercyOyiwodu/mercyOyiwodu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mercyOyiwodu/mercyOyiwodu/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
+
+
