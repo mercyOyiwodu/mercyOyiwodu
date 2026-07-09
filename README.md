@@ -1,6 +1,6 @@
 
 <!-- HEADER BANNER -->
-<img src="https://i.pinimg.com/control1/736x/98/86/06/988606a6071467a08b58e4ab155be6d1.jpg"
+<img src="https://i.pinimg.com/control1/1200x/05/59/55/0559559ec27203deaaae999c685e4e34.jpg"
  alt="Pink Banner" style="width:100%; border-radius: 12px;"/>
 
 
@@ -56,5 +56,9 @@ I'm a **backend developer** passionate about technology and innovation. I love b
 </picture>
 
 ---
+
+<!-- HEADER BANNER -->
+<img src="https://i.pinimg.com/control1/1200x/b7/f5/ee/b7f5eead99e2a1a2f677863dfc8cd058.jpg"
+ alt="Pink Banner" style="width:100%; border-radius: 12px;"/>
 
 
