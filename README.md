@@ -40,10 +40,6 @@ I'm a **backend developer** passionate about technology and innovation. I love b
 ---
 
 ### 📊 GitHub Stats
-
-![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercyOyiwodu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyOyiwodu&layout=compact&theme=radical)
-
 ![mercyOyiwodu's GitHub Stats](https://readme-stats-github.pages.dev/api?username=mercyOyiwodu&theme=dark)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mercyOyiwodu&theme=dark)
 ---
